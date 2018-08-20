@@ -1,0 +1,12 @@
+git config -use to globally access to the user.
+git init-This command create an empty Git repository or reinitialize an existing one.
+git add-This command add file contents to the index.
+git-push - Update remote refs along with associated objects.
+git-status - Show the working tree status.
+git-remote - Manage set of tracked repositories.
+git-commit - Record changes to the repository.
+git-log-To show commit history for a repository.
+git-hist -To see history.
+git-diff -To see the change before and after commiting file.
+git-clone -To create a local working copy of an existing remote repository.
+git-rm -To remove file from the directories from the working index.
